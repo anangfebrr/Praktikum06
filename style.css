@@ -1,0 +1,36 @@
+#header{
+    background-color: #ffbb88;
+    padding-bottom: 10px;
+}
+
+h1{
+    text-align: center;
+    color: #00f;
+ }
+
+blockquote{
+    text-align: center;
+    border: 1px dotted #000;
+    background-color: #eeff00;
+}
+
+#navigasi{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+#bold{
+    font-size: 60px;
+    font-weight: 600;
+    color: #66ff00;
+}
+
+.spasi{
+    margin-right: 10px;
+}
+
+.gambar{
+    display: flex;
+    justify-content: center;
+}
